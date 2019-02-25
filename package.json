@@ -1,0 +1,14 @@
+{
+  "name": "parse_stacktrace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gaoyang <geekgaoyang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "source-map": "^0.7.3"
+  },
+  "bin": {
+    "parse_stacktrace": "index.js"
+  }
+}
